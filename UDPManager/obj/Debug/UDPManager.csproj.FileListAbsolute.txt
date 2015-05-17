@@ -1,0 +1,6 @@
+L:\sharedfolder\projects\visual studio 2010 projects\c#\UDPIP_Demo\UDPManager\bin\Debug\UDPManager.dll.config
+L:\sharedfolder\projects\visual studio 2010 projects\c#\UDPIP_Demo\UDPManager\bin\Debug\UDPManager.dll
+L:\sharedfolder\projects\visual studio 2010 projects\c#\UDPIP_Demo\UDPManager\bin\Debug\UDPManager.pdb
+L:\sharedfolder\projects\visual studio 2010 projects\c#\UDPIP_Demo\UDPManager\obj\Debug\ResolveAssemblyReference.cache
+L:\sharedfolder\projects\visual studio 2010 projects\c#\UDPIP_Demo\UDPManager\obj\Debug\UDPManager.dll
+L:\sharedfolder\projects\visual studio 2010 projects\c#\UDPIP_Demo\UDPManager\obj\Debug\UDPManager.pdb
